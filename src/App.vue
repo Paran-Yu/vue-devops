@@ -1,7 +1,7 @@
 <template>
 <div>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your 리리 App" />
+  <HelloWorld msg="테스트 성공" />
 </div>
 </template>
 
